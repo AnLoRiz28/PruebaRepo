@@ -44,6 +44,7 @@ public class CrearXMLconAle {
 		file.close(); // cerrar fichero
 		
 		System.out.println("Fichero Aleatorio creado correctamente.");
+    		System.out.println("HOLA MUNDO");
 		
  // } SE CIERRA EL CÓDIGO PARA CREAR EL FICHERO ALEATORIO
 		
